@@ -8,4 +8,7 @@ public class AddDemo {
     public static  void main(String[] args) {
         System.out.println("Add Demo ");
     }
+
+    public void Test(){}
+
 }
